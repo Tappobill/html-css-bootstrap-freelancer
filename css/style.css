@@ -1,0 +1,12 @@
+ul{
+    display: inline-block;
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.bg-dark-2{
+    background-color: #2c3e50;
+}
