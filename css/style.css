@@ -27,3 +27,11 @@ li{
     height: 5px;    
     width: 25%;
 }
+
+.p-rem-6{
+    padding: 0 6rem;
+}
+
+.mb-rem-5{
+    margin-bottom: 5rem;
+}
