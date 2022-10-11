@@ -35,3 +35,12 @@ li{
 .mb-rem-5{
     margin-bottom: 5rem;
 }
+
+.bg-dark-3{
+    background-color: #3A546D;
+}
+
+.b-circle{
+    width: 50px;
+    height: 50px;
+}
